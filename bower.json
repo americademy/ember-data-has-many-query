@@ -1,5 +1,5 @@
 {
-  "name": "ember-data-has-many-query",
+  "name": "@codeverse/ember-data-has-many-query",
   "dependencies": {
     "ember": "~2.7.0",
     "ember-cli-shims": "0.1.1",

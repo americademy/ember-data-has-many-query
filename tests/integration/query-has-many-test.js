@@ -2,7 +2,7 @@ import Ember from 'ember';
 import DS from 'ember-data';
 import {module, test} from 'qunit';
 import {setupStore} from '../helpers/store';
-import HasManyQuery from 'ember-data-has-many-query';
+import HasManyQuery from '@codeverse/ember-data-has-many-query';
 
 var env, store;
 

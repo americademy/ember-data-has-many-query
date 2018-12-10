@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-data-has-many-query'
+  name: '@codeverse/ember-data-has-many-query'
 };

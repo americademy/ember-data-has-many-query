@@ -1,5 +1,5 @@
 {
-  "name": "ember-data-has-many-query",
+  "name": "@codeverse/ember-data-has-many-query",
   "version": "0.2.1",
   "description": "Ember data addon for querying async has-many relationships using query parameters",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mdehoog/ember-data-has-many-query"
+    "url": "https://github.com/americademy/ember-data-has-many-query"
   },
   "engines": {
     "node": ">= 0.10.0"
